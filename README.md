@@ -14,8 +14,11 @@
 ## Taxonomy
 
 ## Methods
-|Year|Publication|Title|Method|Type|Event Representation|Motion|Scene|Sensor|Task|Code|
-|---|---|---|---|---|---|---|---|---|---|---|
+|Year|Publication|Title|Method|Type|Event Representation|Task|Code|
+|---|---|---|---|---|---|---|---|
+|2011|[IJCNN](https://ieeexplore.ieee.org/document/6033299)|Interacting maps for fast visual interpretation|Optimization|-|Event Frame|Ego-motion Estimation|-|
+|2012|[ROBIO](https://ieeexplore.ieee.org/document/6491077)|Event-based particle filtering for robot self-localization|Filter|Feature|-|Ego-motion Estimation|-|
+
 
 ## Datasets
 |Name|Publication|Motion|Devices|Resolution|Sensor|Dataset|
