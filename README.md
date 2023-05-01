@@ -4,6 +4,8 @@
 [![Survey](https://img.shields.io/badge/-survey-yellow.svg)](https://arxiv.org/pdf/2304.09793.pdf)
 [![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kun150kun/ESLAM-Survey/blob/main/LICENSE)
 
+More content and details can be found in our Survey Paper: [Event-based Simultaneous Localization and Mapping: A Comprehensive Survey](https://arxiv.org/pdf/2304.09793.pdf)
+
 ## Contents 
 1. [Taxonomy](#Taxonomy)
 2. [Methods](#Methods)
